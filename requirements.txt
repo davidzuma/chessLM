@@ -1,0 +1,12 @@
+gradio
+gradio_chessboard>=0.0.10
+chess
+langchain
+langchain-mcp-adapters
+langchain-anthropic
+langchain-mistralai
+langchain-openai
+langchain-ollama
+langchain-google-genai
+langgraph
+python-dotenv
